@@ -28,4 +28,4 @@ My name is Franek, I'm a 3rd year student of Secondary Technical School of Mecha
   </ul>
   </p>
 </h5>
-<h4>Hobbys: Video Games, Playing Guitar, Making memes, listening to TED talks.</h4>
+<h4>Hobbys: Video Games, Playing Guitar, Anime, Making memes, listening to TED talks.</h4>
