@@ -16,6 +16,7 @@ My name is Franek, I'm a 3rd year student of Secondary Technical School of Mecha
     <li>XAMPP</li>
     <li>VirtualBox</li>
     <li>Adobe CC kit (Premiere Rush, Photoshop, Illustrator, etc.)</li>
+    <li>phpMyAdmin</li>  
   </ul>
   </p>
   <ul>Languages:<br>
@@ -25,6 +26,7 @@ My name is Franek, I'm a 3rd year student of Secondary Technical School of Mecha
     <li>JavaScript</li>
     <li>Python</li>
     <li>SQL</li>
+    <li>Java</li>
   </ul>
   </p>
 </h5>
